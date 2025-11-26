@@ -1,0 +1,30 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1764122617
+double_jump_power_up.gd::GDScript::3955175340882599755::1764099395::0::1::::<>Area3D<><>0<>0<><>::
+double_jump_power_up.tscn::PackedScene::968589248805837794::1764104624::0::1::::<><><>0<>0<><>::uid://bwl6fo7404vvv::::res://double_jump_power_up.gd
+icon.webp::CompressedTexture2D::27118964165343846::1744386698::1764008405::1::::<><><>0<>0<>d1498e266395186d04e973f787f3596d<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
+main.gd::GDScript::4982184209173222137::1764090419::0::1::::<>Node<><>0<>0<><>::
+main.tscn::PackedScene::1940543232055977835::1764098513::0::1::::<><><>0<>0<><>::uid://cc8n3086pvl18::::res://main.gd<>uid://ceuu150fmggvr::::res://player.tscn<>uid://defdm2qdva75q::::res://mob.tscn<>uid://bwd15rhm4p334::::res://fonts/Minecraft.ttf<>uid://bq4lq2wbf1rkc::::res://score_label.gd
+Minecraft.ttf::FontFile::8271651566377307136::1764097432::1764097432::1::::<><><>0<>0<>e983f7d0edeac125c83c5cfcbb03d79c<>res://.godot/imported/Minecraft.ttf-b4cc597ac42d1410cc55dc192f0c0e34.fontdata::
+mob.gd::GDScript::6924879768536141194::1764096292::0::1::::<>CharacterBody3D<><>0<>0<><>::
+mob.tscn::PackedScene::7450544337918621628::1764096624::0::1::::<><><>0<>0<><>::uid://c5wp01kn08qxe::::res://mob.gd<>uid://bicorb7we351t::::res://art/mob.glb
+music_player.tscn::PackedScene::8717211197418034313::1764090564::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
+player.gd::GDScript::5693221398705431802::1764099724::0::1::::<>CharacterBody3D<><>0<>0<><>::
+player.tscn::PackedScene::5096146682080455107::1764099398::0::1::::<><><>0<>0<><>::uid://cnd3r3qyfy5so::::res://player.gd<>uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://cx8mt3qp7mfom::::res://art/SQUASH_SOUND.WAV<>uid://c8bfe33nihxwt::::res://art/JUMP_SOUND.WAV
+score_label.gd::GDScript::3570007048561572186::1764089604::0::1::::<>Label<><>0<>0<><>::
+::res://art/::1764098855
+body.tres::StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
+COIN_SOUND.WAV::AudioStreamWAV::8228633072489711874::1764098855::1764098855::1::::<><><>0<>0<>eaddcb6278594ed03a4b95e28dd9b7b2<>res://.godot/imported/COIN_SOUND.WAV-742ec895e4f36e1c2abe79abfe5086e7.sample::
+eye.tres::StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::6912470962729766485::1744386698::1764008405::1::::<><><>0<>0<>ca11219f684f6cd2af90d4e6cdaead58<>res://.godot/imported/House In a Forest Loop.ogg-1a6a72ae843ad792b7039931227e8d50.oggvorbisstr::
+JUMP_SOUND.WAV::AudioStreamWAV::7091449827844763827::1764098415::1764098416::1::::<><><>0<>0<>b466d7e77ca51fcd848fd92b1420237b<>res://.godot/imported/JUMP_SOUND.WAV-643061ea447bc1e2f80c804a9c684222.sample::
+mob.glb::PackedScene::2952940687663745631::1744386698::1764008405::1::::<><><>0<>0<>943020a3af25cee7ab36f3d953033e5d<>res://.godot/imported/mob.glb-3afb43c03b9d1598b6af5154e2543eac.scn::
+mob_body.tres::StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
+mob_eye.tres::StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
+player.glb::PackedScene::8964461739428881931::1744386698::1764008405::1::::<><><>0<>0<>a78ee2d8f7aa443b1c94ccbc80947510<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
+pupil.tres::StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
+SQUASH_SOUND.WAV::AudioStreamWAV::6456073267037756860::1764098415::1764098416::1::::<><><>0<>0<>98be6db213bbb7f013bab7b664840865<>res://.godot/imported/SQUASH_SOUND.WAV-491dae2daf3df6d3345f0f725e6180af.sample::
+::res://fonts/::1764097444
+LICENSE.txt::TextFile::-1::1744386698::0::1::::<><><>0<>0<><>::
+Minecraft.ttf::FontFile::3938401496916252877::1764097444::1764097444::1::::<><><>0<>0<>3c87b16ce30ef3245d2c6bc6a2942ee3<>res://.godot/imported/Minecraft.ttf-e6722a4c8b9733825dcf3450454c3442.fontdata::
+Montserrat-Medium.ttf::FontFile::6505293508080888906::1744386698::1764008405::1::::<><><>0<>0<>1eb268033ecd125d99a1f1687f4c989d<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::

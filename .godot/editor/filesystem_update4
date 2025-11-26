@@ -1,0 +1,6 @@
+res://double_jump_power_up.tscn
+res://double_jump_power_up.gdshader
+res://main.tscn
+res://main.gd
+res://player.gd
+res://double_jump_power_up.gd
